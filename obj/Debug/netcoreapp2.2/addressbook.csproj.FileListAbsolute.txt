@@ -1,0 +1,11 @@
+C:\Users\Alex\workspace\csharp\chap8\addressbook\obj\Debug\netcoreapp2.2\addressbook.csprojAssemblyReference.cache
+C:\Users\Alex\workspace\csharp\chap8\addressbook\obj\Debug\netcoreapp2.2\addressbook.csproj.CoreCompileInputs.cache
+C:\Users\Alex\workspace\csharp\chap8\addressbook\obj\Debug\netcoreapp2.2\addressbook.AssemblyInfoInputs.cache
+C:\Users\Alex\workspace\csharp\chap8\addressbook\obj\Debug\netcoreapp2.2\addressbook.AssemblyInfo.cs
+C:\Users\Alex\workspace\csharp\chap8\addressbook\bin\Debug\netcoreapp2.2\addressbook.deps.json
+C:\Users\Alex\workspace\csharp\chap8\addressbook\bin\Debug\netcoreapp2.2\addressbook.runtimeconfig.json
+C:\Users\Alex\workspace\csharp\chap8\addressbook\bin\Debug\netcoreapp2.2\addressbook.runtimeconfig.dev.json
+C:\Users\Alex\workspace\csharp\chap8\addressbook\bin\Debug\netcoreapp2.2\addressbook.dll
+C:\Users\Alex\workspace\csharp\chap8\addressbook\bin\Debug\netcoreapp2.2\addressbook.pdb
+C:\Users\Alex\workspace\csharp\chap8\addressbook\obj\Debug\netcoreapp2.2\addressbook.dll
+C:\Users\Alex\workspace\csharp\chap8\addressbook\obj\Debug\netcoreapp2.2\addressbook.pdb
